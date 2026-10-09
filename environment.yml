@@ -1,0 +1,10 @@
+name: python-uk
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.11
+  - numpy
+  - pandas
+  - jupyter
+prefix: /home/horacio/anaconda3/envs/python-uk
